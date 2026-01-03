@@ -4,7 +4,7 @@ A comprehensive Multiple Choice Question (MCQ) application designed for studying
 
 ## Features
 
-- **Massive Question Bank**: ~140+ granular questions covering deep theoretical details.
+- **Massive Question Bank**: ~130+ granular questions covering deep theoretical details.
 - **Mastery Learning**: Incorrect answers are tracked. You must retry and clear all missed questions in subsequent "Retry Rounds" until mastery is achieved.
 - **Instant Feedback**: Immediate validation of answers with detailed explanations and source citations.
 - **Premium UI**: Clean, responsive interface with visual feedback states.
